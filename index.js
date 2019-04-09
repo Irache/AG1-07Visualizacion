@@ -1,3 +1,5 @@
+import './style.css';
+
 var visualization = d3plus.viz()
  .container("#viz1")
  .data([{"year": 1991, "name":"alpha", "value": 15},
